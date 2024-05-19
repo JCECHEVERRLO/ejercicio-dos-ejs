@@ -1,0 +1,27 @@
+[
+    {
+      "name": "Juan obrador",
+      "age": 2
+    },
+    {
+      "name": "Pedro Sanchez",
+      "age": 54
+    },
+    {
+      "name": "Leidy Jaramillo",
+      "age": 35
+
+    },
+    {
+        "name": "gabriel López",
+        "age": 26
+      },
+      {
+        "name": "Alejandro rua",
+        "age": 19
+      },
+      {
+        "name": "Claudia lopez",
+        "age": 52
+      }
+  ]

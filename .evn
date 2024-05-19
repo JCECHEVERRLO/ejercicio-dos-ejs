@@ -1,0 +1,12 @@
+APP_NAME="products App"
+APP_Version="1.0.0"
+
+PORT = 3000
+DEBUG = true
+ENVIROMENT = "development"
+
+DB_HOST = "localhost"
+DB_PORT = 5432
+DB_NAME = "products"
+DB_USER = "postgres"
+DB_PASSWORD = "postgres"
